@@ -1,5 +1,8 @@
 # Example-Code Description:
-Programming Projects
+Programming Projects for viewing.
+
+Hi! In this repo I'm just going to push some of my old projects here and make some seperate branches. Right now the main isn't populated because I plan to just have this for markdown and just letting you know what's in the other branches.
+
 Here's the sample code from my COSC 102 Course at UTK, later pushes to the master branch will include First Robotics (FRC) code
 The 102 Code was created last semester in May, and the Robotics code is a bit older, maybe around 2018 - 2019, but was compiled in Java 11. 
 I'm going to just push the example codes to the master branch, this should be a private repo as well. 
