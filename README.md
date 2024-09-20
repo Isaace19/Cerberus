@@ -1,5 +1,5 @@
 # Maintenence 
-# TODO: 
-  - [] Figure out what projects I want to show
-  - [] Add updated resume, cv, and link to github pages
-  - [] Implement personal website in the future (backburner/low_priority)
+
+Personal Projects: KD-Tree implementations, 3D space closest point calculations. Vision planning with bad/incomplete data. 
+
+Far off future projects...
