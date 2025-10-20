@@ -1,10 +1,11 @@
-/*
-Name: Isaac Abella
-Description: Implementing my very own KDTREE!!!! Yippie!!!!
-
-I want to jump into the fire and create a higher dimension non-euclidian space
-sorting data structure
-*/
+// -*- C++ -*-
+//===----------------------------------------------------------------------===//
+// Implement KD tree balanced binary tree implementation
+// Work on bisecting and grabbing inputs and using this tree class
+// 
+// 
+//
+//===----------------------------------------------------------------------===//
 
 #include <algorithm>
 #include <array>
@@ -25,12 +26,16 @@ public:
     Node *left;
 };
 
+class Edge
+{
+public:
+private:
+};
+
 class KDTree
 {
 private:
-    Node *root;
 
 public:
-    KDTree();
-    void construct_tree(std::vector<int> &points);
+
 };
