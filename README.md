@@ -9,3 +9,8 @@ Future -- Solve the Rosetta Code problem for KDtree.
 
 Future DSA to research:
 R trees and Veroni Graph
+# As of 11/07/2025
+
+A mass refiling and pause on work. Any DSA work is now in DSA dir
+Any projects done outside of C/C++ should go into languages, mainly since I don't code in other languages as of yet
+Eliza Project - stonewalled for now but will definitely be something that I come back to when bored. 
